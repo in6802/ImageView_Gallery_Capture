@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ImageView_Gallery_Capture</string>
+    <string name="buttonGallery">imageview from gallery</string>
+    <string name="buttonCapture">Take button</string>
 </resources>
